@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WSNTBS>
+	<MySQLServer>
+		<Host>sample.com</Host>
+		<Database>testbed</Database>
+		<Username>user</Username>
+		<Password>password</Password>
+		<Location />
+		<StartOfNode>1</StartOfNode>
+		<NumberOfNodes>0</NumberOfNodes>
+		<MaxProgrammerThreads>1</MaxProgrammerThreads>
+	</MySQLServer>
+	<PortMapping />
+</WSNTBS>
